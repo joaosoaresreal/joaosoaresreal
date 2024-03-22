@@ -2,13 +2,13 @@
 👉🏼 Seja bem-vindo ao meu perfil do GitHub
 
 ### Quem sou eu?
-* 👨🏻‍💻 Academico do curso superior de [Tecnologia em Análise e Desenvolvimento de Sistemas - TADS](https://www.ifms.edu.br/cursos/graduacao/analise-e-desenvolvimento-de-sistemas), do [Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso do Sul - IFMS, _Campus Naviraí_](https://ifms.edu.br/campi/campus-navirai), no qual estou no 5º Semestre.
+* 👨🏻‍💻 Academico do curso superior de [Tecnologia em Análise e Desenvolvimento de Sistemas - TADS](https://www.ifms.edu.br/cursos/graduacao/analise-e-desenvolvimento-de-sistemas), do [Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso do Sul - IFMS, _Campus Naviraí_](https://ifms.edu.br/campi/campus-navirai), no qual estou no 6º Semestre.
 
-* 📚  Academico do curso superior de [Administração](https://www.anhanguera.com/curso/administracao/) - EAD, pela [Universidade Anhanguera](https://www.anhanguera.com/), no qual estou no 6º Semestre.
+* 📚  Academico do curso superior de [Administração](https://www.anhanguera.com/curso/administracao/) - EAD, pela [Universidade Anhanguera](https://www.anhanguera.com/), no qual estou no 7º Semestre.
 
-* 👷🏼‍♂️ Trabalho na empresa [JB Software](https://sisecf.com/) como Suporte Técnico do software SisECF.
+* 👷🏼‍♂️ Trabalho na empresa [JB Software](https://efisim.com.br/) (atual Efisim Sistemas) como Suporte Técnico do software SisECF.
 
-* 🤔 Estou aprendendo [Angular](https://angular.io/) atualmente.
+* 🤔 Estou aprendendo [php](https://www.php.net/) atualmente.
 
 ### Ferramentas e Tecnologias que já utilizei
 * Linguagens: <br/>
@@ -16,6 +16,7 @@
 
 * Frameworks: <br/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40"/>
+
 * Banco de dados: <br/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
 
@@ -31,4 +32,8 @@
 <a href="https://www.linkedin.com/in/joaosoaresreal" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "mailto:joao.soares8@estudante.ifms.edu.br"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/joaosoaresreal" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
+
+<div>
+    💥 Em breve um portifólio completo em <a href="http://www.joaosoares.dev.br" target="_blank">joaosoares.dev.br</a>
 </div>
