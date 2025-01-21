@@ -2,7 +2,7 @@
 :tada: Seja bem-vindo ao meu perfil do GitHub
 
 ### :sunglasses: Quem sou eu?
-* 👨🏻‍💻 **Analista e Desenvolvedor de Sistemas**, formado através do curso superior de [Tecnologia em Análise e Desenvolvimento de Sistemas - TADS](https://www.ifms.edu.br/cursos/graduacao/analise-e-desenvolvimento-de-sistemas), do [Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso do Sul - IFMS, _Campus Naviraí_](https://ifms.edu.br/campi/campus-navirai), no qual estou no 6º Semestre.
+* 👨🏻‍💻 **Analista e Desenvolvedor de Sistemas**, formado através do curso superior de [Tecnologia em Análise e Desenvolvimento de Sistemas - TADS](https://www.ifms.edu.br/cursos/graduacao/analise-e-desenvolvimento-de-sistemas), do [Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso do Sul - IFMS, _Campus Naviraí_](https://ifms.edu.br/campi/campus-navirai).
 
 * 📚  Academico do curso superior de [Administração](https://www.anhanguera.com/curso/administracao/) - EAD, pela [Universidade Anhanguera](https://www.anhanguera.com/), no qual estou no 8º Semestre.
 
