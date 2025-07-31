@@ -4,7 +4,7 @@
 ### :sunglasses: Quem sou eu?
 * 👨🏻‍💻 **Analista e Desenvolvedor de Sistemas**, formado através do curso superior de [Tecnologia em Análise e Desenvolvimento de Sistemas - TADS](https://www.ifms.edu.br/cursos/graduacao/analise-e-desenvolvimento-de-sistemas), do [Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso do Sul - IFMS, _Campus Naviraí_](https://ifms.edu.br/campi/campus-navirai).
 
-* 📚  Academico do curso superior de [Administração](https://www.anhanguera.com/curso/administracao/) - EAD, pela [Universidade Anhanguera](https://www.anhanguera.com/), no qual estou no 8º Semestre.
+* 📚  [Bacharel em Administração](https://www.anhanguera.com/curso/administracao/), formado através da [Universidade Anhanguera](https://www.anhanguera.com/).
 
 * 👷🏼‍♂️ Trabalho na empresa [Efisim Sistemas](https://efisim.com.br/) como Suporte Técnico do software SisECF.
 
@@ -12,13 +12,34 @@
 
 ### :hammer: Ferramentas e Tecnologias que já utilizei
 * Linguagens: <br/>
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/>   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> 
+<div style="display: flex; flex-direction: inline; gap: 10px; margin-left: 10px; margin-bottom: 20px; align-items: center;">
+    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
+    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/>
+    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
+</div> 
 
 * Frameworks: <br/>
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40"/>
+<div style="display: flex; flex-direction: inline; gap: 10px;  margin-left: 10px; margin-bottom: 20px; margin-top: -20px; align-items: center;">
+    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sequelize/sequelize-original-wordmark.svg" width="80" height="80" />
+    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="40" height="40"/>
+    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-plain-wordmark.svg" width="80" height="80"/>
+    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" width="50" height="50"/>
+</div>
 
 * Banco de dados: <br/>
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+<div style="display: flex; flex-direction: inline; gap: 10px; margin-left: 10px; margin-bottom: 20px; align-items: center;">
+    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
+    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="50" height="50"/>
+</div>
+          
+
+### :alarm_clock: Aprendizado em andamento:
+<div style="display: flex; flex-direction: inline; gap: 10px; margin-left: 10px; margin-bottom: 20px; align-items: center;">
+    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" height="40" />
+    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/delphi/delphi-original.svg" width="40" height="40" />
+</div>
+          
 
 #
 
@@ -36,4 +57,4 @@
     <a href="https://instagram.com/joaosoaresreal" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
-## 💥 Em breve um portifólio completo em [www.joaosoares.com.br](www.joaosoares.com.br)
+## 💥 Confira o portifólio completo em <a href="https://www.joaosoares.com.br" target="_blank">www.joaosoares.com.br</a>
